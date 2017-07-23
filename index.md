@@ -12,6 +12,13 @@ Master Student(Apr. 2016 -- present)<br>
 
 ## Activities
 
+### School
+
+- [Chatbot](https://github.com/shimastripe/rabbit)
+- [Android app](https://github.com/shimastripe/GPSMountainView)
+
+### Internship
+
 - [綺麗なAPI速習会](http://qiita.com/shimastripe/items/e9b0e1f8f8d77b89373f)
 
   - [Connpass](https://wantedly.connpass.com/event/36894/)
