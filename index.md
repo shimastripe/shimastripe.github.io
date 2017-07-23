@@ -11,7 +11,7 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [Qiita](http://qiita.com/shimastripe)
 - [SpeakerDeck](https://speakerdeck.com/shimastripe)
 
-## Activities
+## Activities(Projects)
 
 ### School
 
