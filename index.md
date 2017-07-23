@@ -2,7 +2,8 @@
 
 Master Student(Apr. 2016 -- present)<br>
 [Kobayashi Laboratory](http://www.sa.cs.titech.ac.jp/), [Department of Computer Science](http://educ.titech.ac.jp/cs/eng/)<br>
-[School of Computing](http://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](http://www.titech.ac.jp/english/index.html)
+[School of Computing](http://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](http://www.titech.ac.jp/english/index.html)<br>
+E-mail: gtakagi [at] sa.cs.titech.ac.jp
 
 ## Account
 
@@ -15,7 +16,7 @@ Master Student(Apr. 2016 -- present)<br>
 ### School
 
 - [Chatbot](https://github.com/shimastripe/rabbit)
-- [Android app](https://github.com/shimastripe/GPSMountainView)
+- [Android App](https://github.com/shimastripe/GPSMountainView)
 
 ### Internship
 
