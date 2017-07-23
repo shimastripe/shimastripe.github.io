@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Go Takagi
 
-You can use the [editor on GitHub](https://github.com/shimastripe/shimastripe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Master Student(Apr. 2016 -- present)<br>
+[Kobayashi Laboratory](http://www.sa.cs.titech.ac.jp/), [Department of Computer Science](http://educ.titech.ac.jp/cs/eng/)<br>
+[School of Computing](http://www.titech.ac.jp/english/about/organization/schools/organization04.html), [Tokyo Institute of Technology](http://www.titech.ac.jp/english/index.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Account
 
-### Markdown
+- [GitHub](https://github.com/shimastripe)
+- [Qiita](http://qiita.com/shimastripe)
+- [SpeakerDeck](https://speakerdeck.com/shimastripe)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Activities
 
-```markdown
-Syntax highlighted code block
+- [綺麗なAPI速習会](http://qiita.com/shimastripe/items/e9b0e1f8f8d77b89373f)
 
-# Header 1
-## Header 2
-### Header 3
+  - [Connpass](https://wantedly.connpass.com/event/36894/)
 
-- Bulleted
-- List
+- [Wantedly Spring Internship 2016](http://engineer.wantedly.com/2016/03/11/spring-internship-2016.html)
 
-1. Numbered
-2. List
+- [API Blueprint速習会 @Wantedly](https://speakerdeck.com/shimastripe/api-blueprintsu-xi-hui-at-wantedly)
 
-**Bold** and _Italic_ and `Code` text
+  - [Connpass](https://wantedly.connpass.com/event/31645/)
 
-[Link](url) and ![Image](src)
-```
+- [apiblueprint-rails](https://github.com/wantedly/apiblueprint-rails)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shimastripe/shimastripe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [apig: Golang RESTful API Server Generator](https://github.com/wantedly/apig)
