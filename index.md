@@ -11,24 +11,30 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [Qiita](http://qiita.com/shimastripe)
 - [SpeakerDeck](https://speakerdeck.com/shimastripe)
 
-## Activities(Projects)
+## Activities
+
+[ZigZaGame Inc.](http://zigzagame.com/) (Jul. 2015 -- Mar. 2016)<br>
+[Wantedly, Inc.](https://www.wantedly.com/) (Apr. 2016 -- Nov. 2016)<br>
+[All Nippon Asset Management Co., Ltd.](https://www.anam.co.jp/) (Apr. 2017 -- present)
+
+## Projects
 
 ### School
 
-- [Chatbot](https://github.com/shimastripe/rabbit)
-- [Android App](https://github.com/shimastripe/GPSMountainView)
+- [rabbit](https://github.com/shimastripe/rabbit) (ChatBot)
+- [GPS Mountain View](https://github.com/shimastripe/GPSMountainView) (Android App)
 
 ### Internship
 
 - [綺麗なAPI速習会](http://qiita.com/shimastripe/items/e9b0e1f8f8d77b89373f)
 
-  - [Connpass](https://wantedly.connpass.com/event/36894/)
+	- [Connpass](https://wantedly.connpass.com/event/36894/)
 
 - [Wantedly Spring Internship 2016](http://engineer.wantedly.com/2016/03/11/spring-internship-2016.html)
 
 - [API Blueprint速習会 @Wantedly](https://speakerdeck.com/shimastripe/api-blueprintsu-xi-hui-at-wantedly)
 
-  - [Connpass](https://wantedly.connpass.com/event/31645/)
+	- [Connpass](https://wantedly.connpass.com/event/31645/)
 
 - [apiblueprint-rails](https://github.com/wantedly/apiblueprint-rails)
 
