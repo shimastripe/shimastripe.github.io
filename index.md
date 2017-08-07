@@ -15,7 +15,8 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 
 [ZigZaGame Inc.](http://zigzagame.com/) (Jul. 2015 -- Mar. 2016)<br>
 [Wantedly, Inc.](https://www.wantedly.com/) (Apr. 2016 -- Nov. 2016)<br>
-[All Nippon Asset Management Co., Ltd.](https://www.anam.co.jp/) (Apr. 2017 -- present)
+[All Nippon Asset Management Co., Ltd.](https://www.anam.co.jp/) (Apr. 2017 -- present)<br>
+[NIKKEI DIGITAL INTERNSHIP](https://hack.nikkei.com/) (Aug.14, 2017 -- Aug.18, 2017)
 
 ## Projects
 
