@@ -18,12 +18,16 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 [All Nippon Asset Management Co., Ltd.](https://www.anam.co.jp/) (Apr. 2017 -- present)<br>
 [NIKKEI DIGITAL INTERNSHIP](https://hack.nikkei.com/) (Aug.14, 2017 -- Aug.18, 2017)
 
+## Publications
+- <u>高木 豪</u>, 小林 隆志, **開発ツール連携のためのProxyChatBotフレームワーク**, ソフトウェアエンジニアリングシンポジウム2017論文集, pp.161–166, Aug. 2017 `学生奨励発表賞`
+
 ## Projects
 
 ### School
 
 - [rabbit](https://github.com/shimastripe/rabbit) (ChatBot)
 - [GPS Mountain View](https://github.com/shimastripe/GPSMountainView) (Android App)
+- [hubot-rss-reader](https://github.com/shimastripe/hubot-rss-reader)
 
 ### Internship
 
