@@ -44,3 +44,7 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [apiblueprint-rails](https://github.com/wantedly/apiblueprint-rails)
 
 - [apig: Golang RESTful API Server Generator](https://github.com/wantedly/apig)
+
+### Event
+- [voyage cto-challenge2017](https://supporterz.jp/lp/cto-challenge2017/)
+	- Level3 Upper Prize
