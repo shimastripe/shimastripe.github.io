@@ -2,3 +2,5 @@ theme: minima
 
 gems:
   - jekyll-feed
+
+google_analytics: UA-51730175-4
