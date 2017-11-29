@@ -12,11 +12,17 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [SpeakerDeck](https://speakerdeck.com/shimastripe)
 
 ## Activities
+### Internship
 
 [ZigZaGame Inc.](http://zigzagame.com/) (Jul. 2015 -- Mar. 2016)<br>
 [Wantedly, Inc.](https://www.wantedly.com/) (Apr. 2016 -- Nov. 2016)<br>
 [All Nippon Asset Management Co., Ltd.](https://www.anam.co.jp/) (Apr. 2017 -- present)<br>
-[NIKKEI DIGITAL INTERNSHIP](https://hack.nikkei.com/) (Aug.14, 2017 -- Aug.18, 2017)
+[NIKKEI DIGITAL INTERNSHIP](https://hack.nikkei.com/) (Aug.14, 2017 -- Aug.18, 2017)<br>
+[VOYAGE GROUP INTERNSHIP Sunrise](https://voyagegroup.com/internship/sunrise/) (Nov.23 2017 --- Nov.25 2017)
+
+### Event
+- [voyage cto-challenge2017](https://supporterz.jp/lp/cto-challenge2017/)
+	- Level3 Upper Prize
 
 ## Publications
 - <u>高木 豪</u>, 小林 隆志, **開発ツール連携のためのProxyChatBotフレームワーク**, ソフトウェアエンジニアリングシンポジウム2017論文集, pp.161–166, Aug. 2017 `学生奨励発表賞`
@@ -44,7 +50,3 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [apiblueprint-rails](https://github.com/wantedly/apiblueprint-rails)
 
 - [apig: Golang RESTful API Server Generator](https://github.com/wantedly/apig)
-
-### Event
-- [voyage cto-challenge2017](https://supporterz.jp/lp/cto-challenge2017/)
-	- Level3 Upper Prize
