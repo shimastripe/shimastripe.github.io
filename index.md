@@ -23,6 +23,8 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 ### Event
 - [voyage cto-challenge2017](https://supporterz.jp/lp/cto-challenge2017/)
 	- Level3 Upper Prize
+- [Supporterz Code Challenge2017](https://supporterz.jp/spevents/detail/spz_code_challenge_2017)
+	- Special Prize
 
 ## Publications
 - <u>高木 豪</u>, 小林 隆志, **開発ツール連携のためのProxyChatBotフレームワーク**, ソフトウェアエンジニアリングシンポジウム2017論文集, pp.161–166, Aug. 2017 `学生奨励発表賞`
