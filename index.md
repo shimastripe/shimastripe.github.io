@@ -17,8 +17,9 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 [ZigZaGame Inc.](http://zigzagame.com/) (Jul. 2015 -- Mar. 2016)<br>
 [Wantedly, Inc.](https://www.wantedly.com/) (Apr. 2016 -- Nov. 2016)<br>
 [All Nippon Asset Management Co., Ltd.](https://www.anam.co.jp/) (Apr. 2017 -- present)<br>
-[NIKKEI DIGITAL INTERNSHIP](https://hack.nikkei.com/) (Aug.14, 2017 -- Aug.18, 2017)<br>
+<!-- [NIKKEI DIGITAL INTERNSHIP](https://hack.nikkei.com/) (Aug.14, 2017 -- Aug.18, 2017)<br> -->
 [VOYAGE GROUP INTERNSHIP Sunrise](https://voyagegroup.com/internship/sunrise/) (Nov.23 2017 --- Nov.25 2017)
+[RECRUIT TECH LAB PAAK Silicon Valley Workshop 2018](http://techlabpaak.com/siliconvalleyworkshop2018) (Feb.25 2018 --- Mar.5 2018)
 
 ### Event
 - [voyage cto-challenge2017](https://supporterz.jp/lp/cto-challenge2017/)
