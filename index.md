@@ -10,6 +10,7 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [GitHub](https://github.com/shimastripe)
 - [Qiita](http://qiita.com/shimastripe)
 - [SpeakerDeck](https://speakerdeck.com/shimastripe)
+- [Blog](https://shimastripe.goat.me/)
 
 ## Activities
 ### Internship
