@@ -55,8 +55,3 @@ E-mail: gtakagi [at] sa.cs.titech.ac.jp
 - [apiblueprint-rails](https://github.com/wantedly/apiblueprint-rails)
 
 - [apig: Golang RESTful API Server Generator](https://github.com/wantedly/apig)
-
-### Slides
-
- :---: | :---: | :---:
-<script async class="speakerdeck-embed" data-id="56e8164ea62a4e988f4705d7c0463c9b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>|<script async class="speakerdeck-embed" data-id="6b00c3e8fe31491992ef188511afedcb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>|<script async class="speakerdeck-embed" data-id="a03e1a5803544f84973788130d3825b6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
