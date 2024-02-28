@@ -1,1 +1,14 @@
-1
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>InAppPurchaseViewer</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 29 Feb 2024 05:15:30 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shimastripe/InAppPurchaseViewer/releases/download/1.0.0/InAppPurchaseViewer_1.0.0.dmg" length="14423515" type="application/octet-stream" sparkle:edSignature="VtRT/1QXxN0gVu1lZygzPjfYtD+aVU5TO8FVlhMoxZFgwZ9+OIKohzmiZszTizlmJRo1LTcuj5umyqRYsICMCw=="/>
+        </item>
+    </channel>
+</rss>
