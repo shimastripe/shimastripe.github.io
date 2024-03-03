@@ -3,6 +3,14 @@
     <channel>
         <title>InAppPurchaseViewer</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 04 Mar 2024 04:28:27 +0900</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shimastripe/InAppPurchaseViewer/releases/download/1.1.0/InAppPurchaseViewer_1.1.0.dmg" length="14403124" type="application/octet-stream" sparkle:edSignature="wvBKu9gRTaBivZ2iTDJ9y4Bek3hTQIfVgBcnq8jegICtCDyLY+HNBX1uZZUnD37mwCjSwZCHGdVgYRX2jIkOBA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 29 Feb 2024 05:15:30 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
